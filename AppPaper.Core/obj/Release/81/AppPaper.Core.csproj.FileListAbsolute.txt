@@ -1,0 +1,17 @@
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\bin\Release\AppPaper.Core.dll
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\bin\Release\AppPaper.Core.pdb
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\bin\Release\AppPaper.Core.apk
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\bin\Release\AppPaper.Core-Signed.apk
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\AppPaper.Core.nuget.stamp
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\libraryimports.cache.stamp
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\res.flag
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\AppPaper.Core.csproj.CoreCompileInputs.cache
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\AppPaper.Core.dll
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\AppPaper.Core.pdb
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\android\bin\AppPaper.Core.apk
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\res\values\strings.xml
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\R.cs.flag
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\R.txt
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\uploadflags.txt
+C:\Users\guill\source\repos\AppPaper\AppPaper.Core\obj\Release\81\AppPaper.Core.csprojAssemblyReference.cache
